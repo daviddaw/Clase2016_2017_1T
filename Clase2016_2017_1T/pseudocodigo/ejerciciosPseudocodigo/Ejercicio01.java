@@ -7,7 +7,7 @@ public class Ejercicio01 {
 		int n1,n2;
 		int suma,resta,multi;
 		double divi;
-		System.out.println("Escribe dos numeros");
+		System.out.println("Escribe   dos numeros");
 
 	//inicializacion
 		n1=LeerTeclado.readInteger();
