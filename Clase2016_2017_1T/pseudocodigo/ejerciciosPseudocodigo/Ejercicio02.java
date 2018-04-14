@@ -18,7 +18,7 @@ public class Ejercicio02 {
     longitud=2*PI*R;
     circulo=PI*Math.pow(R, 2);
     
-    
+    System.out.println("ho");
     //Salida
     System.out.println("La longitud de la circunferecia es "
     +longitud+" y el area del circulo es "+circulo);
